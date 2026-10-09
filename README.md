@@ -1,4 +1,3 @@
-
 # Modelo No Supervisado para el Análisis del Transporte Masivo
 
 ## Descripción del proyecto
@@ -138,6 +137,9 @@ El mejor resultado correspondió a:
 ```text
 Número de clusters: 2
 Coeficiente de silueta: 0.3653
+
+## Referencias
+Palma Méndez, J. T. (2008). Inteligencia artificial: métodos, técnicas y aplicaciones. McGraw-Hill España.
 
 ENTREGA - MODELO NO SUPERVISADO TRANSPORTE MASIVO
 
