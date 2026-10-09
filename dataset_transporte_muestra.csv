@@ -1,0 +1,61 @@
+﻿estacion,franja_horaria,entradas_promedio,salidas_promedio,ocupacion_pct,tiempo_espera_min,transbordos_promedio,distancia_km
+Portal Norte,Pico mañana,5792,4431,92.1,6.35,4,0.64
+Portal Norte,Valle mañana,3215,2476,60.6,5.6,5,0.89
+Portal Norte,Pico tarde,5348,4218,86.2,5.72,5,0.68
+Portal Norte,Valle tarde,3053,2324,57.5,5.67,5,0.78
+Calle 100,Pico mañana,5073,3949,83.8,6.38,4,1.4
+Calle 100,Valle mañana,2984,2182,54.5,5.79,4,1.49
+Calle 100,Pico tarde,4717,3628,74.2,6.59,4,1.42
+Calle 100,Valle tarde,2599,2070,54.9,6.06,4,1.38
+Calle 72,Pico mañana,4786,3689,78.8,6.62,3,1.86
+Calle 72,Valle mañana,2599,2012,53.1,6.64,2,2.02
+Calle 72,Pico tarde,4269,3394,74.4,6.56,4,2.0
+Calle 72,Valle tarde,2432,1885,55.7,5.89,2,1.76
+Héroes,Pico mañana,4370,3476,74.8,6.76,3,2.47
+Héroes,Valle mañana,2507,1899,54.2,5.85,2,2.4
+Héroes,Pico tarde,4022,3220,68.7,6.52,3,2.5
+Héroes,Valle tarde,2346,1783,48.9,6.12,1,2.28
+Calle 45,Pico mañana,3795,2969,69.8,6.34,2,3.16
+Calle 45,Valle mañana,2135,1720,45.3,6.27,1,2.96
+Calle 45,Pico tarde,3658,2704,66.7,6.66,2,2.83
+Calle 45,Valle tarde,2021,1538,48.3,6.17,3,2.97
+Universidades,Pico mañana,3451,2750,65.0,7.27,3,3.59
+Universidades,Valle mañana,2059,1457,44.2,6.05,1,3.38
+Universidades,Pico tarde,3306,2525,55.4,6.54,2,3.65
+Universidades,Valle tarde,1966,1581,47.0,5.86,0,3.58
+Museo Nacional,Pico mañana,3709,2906,64.4,6.76,3,0.82
+Museo Nacional,Valle mañana,2081,1570,41.6,6.27,2,1.01
+Museo Nacional,Pico tarde,3496,2766,61.8,6.3,2,0.71
+Museo Nacional,Valle tarde,2101,1473,50.1,5.8,2,0.85
+Portal Sur,Pico mañana,5578,4344,84.5,6.39,4,1.2
+Portal Sur,Valle mañana,3015,2424,65.8,5.81,4,1.38
+Portal Sur,Pico tarde,5266,4037,80.9,6.56,5,1.53
+Portal Sur,Valle tarde,2910,2186,51.7,6.65,5,1.33
+Calle 26,Pico mañana,4590,3671,71.9,6.29,4,1.85
+Calle 26,Valle mañana,2564,1986,54.9,6.56,3,1.98
+Calle 26,Pico tarde,4131,3322,69.1,6.08,3,1.86
+Calle 26,Valle tarde,2458,1789,51.7,5.9,2,2.02
+Portal Américas,Pico mañana,5565,4373,85.8,5.96,4,2.48
+Portal Américas,Valle mañana,3083,2329,59.5,6.01,5,2.68
+Portal Américas,Pico tarde,5059,3965,76.0,6.1,5,2.59
+Portal Américas,Valle tarde,2815,2193,48.3,6.11,3,2.39
+Banderas,Pico mañana,4737,3727,71.3,6.1,5,2.85
+Banderas,Valle mañana,2589,2174,66.2,5.33,3,3.04
+Banderas,Pico tarde,4564,3401,73.4,6.66,4,2.95
+Banderas,Valle tarde,2479,1859,51.7,5.98,3,2.93
+Mundo Aventura,Pico mañana,3981,3126,69.5,6.79,3,3.55
+Mundo Aventura,Valle mañana,2143,1723,49.0,6.97,3,3.6
+Mundo Aventura,Pico tarde,3602,2782,70.4,6.56,3,3.34
+Mundo Aventura,Valle tarde,2112,1617,43.3,6.14,2,3.56
+Portal Suba,Pico mañana,5264,4105,82.7,6.34,5,0.5
+Portal Suba,Valle mañana,2919,2293,58.8,5.82,2,0.84
+Portal Suba,Pico tarde,5014,3721,82.8,6.0,4,0.67
+Portal Suba,Valle tarde,2717,2203,57.8,6.5,4,0.85
+La Campiña,Pico mañana,3827,2906,69.5,6.56,2,1.27
+La Campiña,Valle mañana,2128,1536,51.0,6.11,2,1.44
+La Campiña,Pico tarde,3558,2708,56.8,6.83,2,1.29
+La Campiña,Valle tarde,2027,1529,43.6,5.95,2,1.2
+Portal 80,Pico mañana,5299,4175,89.0,6.32,3,1.94
+Portal 80,Valle mañana,2975,2332,64.5,5.07,3,1.97
+Portal 80,Pico tarde,4839,3931,81.5,6.45,4,2.0
+Portal 80,Valle tarde,2846,2168,56.7,6.02,3,1.88
